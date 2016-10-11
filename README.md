@@ -1,3 +1,4 @@
 # HelloWorld
 test Git
-make a conflict
+this is a git test demo
+>>>>>>> branch_1
