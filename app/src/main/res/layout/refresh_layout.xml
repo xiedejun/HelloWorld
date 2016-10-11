@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.tcl.example.com.tcl.dejun.xie.startActivityForResult.RefreshView
+        android:id="@+id/refresh_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <FrameLayout
+            android:id="@+id/fl_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <FrameLayout
+            android:id="@+id/fl_head"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+    </com.tcl.example.com.tcl.dejun.xie.startActivityForResult.RefreshView>
+</FrameLayout>

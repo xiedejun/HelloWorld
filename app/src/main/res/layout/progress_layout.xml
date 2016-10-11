@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:myProgressBar="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/relativelayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <com.tcl.example.xie.dejun.diyview.MyProgressBar
+        android:id="@+id/my_progress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        myProgressBar:innerCircle="8dp"
+        myProgressBar:ringWidth="4dp"
+        myProgressBar:roundColor="#ffff0000"
+        myProgressBar:roundProgressColor="#ff0000ff"
+        myProgressBar:backgroudColor="#999999" />
+
+    <ImageView
+        android:id="@+id/iv_center"
+        android:layout_width="17dp"
+        android:layout_height="17dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/icon_150"
+        android:layout_centerInParent="true"/>
+
+
+    <!--android:layout_centerHorizontal="true"-->
+</RelativeLayout>

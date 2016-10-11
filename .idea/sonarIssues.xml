@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/RecyclerViewItemHandler/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/RecyclerViewItemHandler/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/RecyclerViewItemHandler/main/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/RecyclerViewItemHandler/main/src/main/java/com/yolanda/recyclerview/itemhandle/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/CustomLayoutManager/app/src/main/java/com/hc/customlayoutmanager/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/CustomLayoutManager/app/src/main/java/com/hc/customlayoutmanager/MyLayoutManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/DragGridView/DragGridView-master/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/DragGridView/DragGridView-master/app/src/main/java/com/yuqirong/draggridview/activity/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/DragGridView/DragGridView-master/app/src/main/java/com/yuqirong/draggridview/view/DragGridView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/DragGridView/DragGridView-master/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/HiStream/app/src/main/java/com/tcl/mie/launcher/lscreen/module/ABaseView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/HiStream/app/src/main/java/com/tcl/mie/launcher/lscreen/ui/MainWeatherScrollView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/HiStream/app/src/main/java/com/tcl/mie/launcher/lscreen/view/news/MyNewsScreen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/OneTouchStreamGlobal/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/OneTouchStreamGlobal/app/proguard.cfg">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/OneTouchStreamGlobal/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/OneTouchStreamGlobal/app/src/main/java/com/tcl/mie/launcher/lscreen/module/ABaseView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/OneTouchStreamGlobal/app/src/main/java/com/tcl/mie/launcher/lscreen/module/AScreenView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/OneTouchStreamGlobal/app/src/main/java/com/tcl/mie/launcher/lscreen/module/AbstractScreenView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/OneTouchStreamGlobal/app/src/main/java/com/tcl/mie/launcher/lscreen/support/cache/MutiTypeNewsCacheUtility.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/OneTouchStreamGlobal/app/src/main/java/com/tcl/mie/launcher/lscreen/ui/AlcatelActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/OneTouchStreamGlobal/app/src/main/java/com/tcl/mie/launcher/lscreen/ui/LScreenManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/OneTouchStreamGlobal/app/src/main/java/com/tcl/mie/launcher/lscreen/ui/MainWeatherScrollView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/OneTouchStreamGlobal/app/src/main/java/com/tcl/mie/launcher/lscreen/utils/AppSettings.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/OneTouchStreamGlobal/app/src/main/java/com/tcl/mie/launcher/lscreen/utils/InnAndroidUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/OneTouchStreamGlobal/app/src/main/java/com/tcl/mie/launcher/lscreen/view/news/MultiNewsBaseView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/OneTouchStreamGlobal/app/src/main/java/com/tcl/mie/launcher/lscreen/view/news/MultiNewsListItemView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/OneTouchStreamGlobal/app/src/main/java/com/tcl/mie/launcher/lscreen/view/news/MultiNewsListView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/OneTouchStreamGlobal/app/src/main/java/com/tcl/mie/launcher/lscreen/view/news/MultiNewsWebViewActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/OneTouchStreamGlobal/app/src/main/java/com/tcl/mie/launcher/lscreen/view/news/MutilNewsBaseView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/OneTouchStreamGlobal/app/src/main/java/com/tcl/mie/launcher/lscreen/view/news/NewsView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/OneTouchStreamGlobal/app/src/main/java/com/tcl/mie/launcher/lscreen/view/setting/SettingData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/OneTouchStreamGlobal/app/src/main/java/com/tcl/mie/launcher/lscreen/widgets/ScreenPopRootView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/OneTouchStreamGlobal/app/src/main/java/com/tcl/mie/launcher/lscreen/widgets/WeatherContainer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/OneTouchStreamGlobal/app/src/main/java/com/tcl/mie/launcher/lscreen/widgets/swiperefresh/SwipeRefreshLayout.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/OneTouchStreamGlobal/app/src/main/res/layout/layout_music.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/OneTouchStreamGlobal/app/src/main/res/layout/layout_news_item.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/OneTouchStreamGlobal/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/OneTouchStreamGlobal/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/generated/source/r/debug/com/tcl/example/xie/dejun/diyview/R.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/tcl/example/SwipeRefreshLayout/BakedBezierInterpolator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/tcl/example/SwipeRefreshLayout/SwipeProgressBar.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/tcl/example/SwipeRefreshLayout/SwipeRefreshLayout.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/tcl/example/com/tcl/dejun/xie/ListViewUsage/HourAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/tcl/example/com/tcl/dejun/xie/ListViewUsage/ObservableScrollView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/tcl/example/com/tcl/dejun/xie/ListViewUsage/RightDragItemView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/tcl/example/com/tcl/dejun/xie/ListViewUsage/TimeAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/tcl/example/com/tcl/dejun/xie/ListViewUsage/TimeData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/tcl/example/com/tcl/dejun/xie/ReadAndWriteData/Activity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/tcl/example/com/tcl/dejun/xie/ReadAndWriteData/ConstField.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/tcl/example/com/tcl/dejun/xie/ReadAndWriteData/EnterActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/tcl/example/com/tcl/dejun/xie/ReadAndWriteData/GetMemoryUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/tcl/example/com/tcl/dejun/xie/ReadAndWriteData/LogiinActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/tcl/example/com/tcl/dejun/xie/ReadAndWriteData/LoginActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/tcl/example/com/tcl/dejun/xie/ReadAndWriteData/MyTextWatcher.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/tcl/example/com/tcl/dejun/xie/RecyclerViewDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/tcl/example/com/tcl/dejun/xie/RecyclerViewDemo/DefaultItemTouchHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/tcl/example/com/tcl/dejun/xie/RecyclerViewDemo/MyAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/tcl/example/com/tcl/dejun/xie/RecyclerViewDemo/RecyclerViewActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/tcl/example/com/tcl/dejun/xie/RecyclerViewDemo/RecyclerViewDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/tcl/example/com/tcl/dejun/xie/RecyclerViewDemo/YolandaItemTouchHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/tcl/example/com/tcl/dejun/xie/RecyclerViewDemo/helper/YolandaItemTouchHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/tcl/example/com/tcl/dejun/xie/mainActivity/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/tcl/example/com/tcl/dejun/xie/mainActivity/PorterDuffView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/tcl/example/com/tcl/dejun/xie/startActivityForResult/ActivityForResultA.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/tcl/example/com/tcl/dejun/xie/tintAndClipping/TintActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/tcl/example/com/tcl/dejun/xie/tintAndClipping/TintTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/tcl/example/swipyrefresh/CircleImageView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/tcl/example/swipyrefresh/SwipyRefreshLayout.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/helper/ItemTouchHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/helper/YolandaItemTouchHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/shade2.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/shade_1">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_contact.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_enter.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_recycler_view.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_result_a.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_tint.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/check_box__layout.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/left_wrapper_item.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/login_input.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/lva_item.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/dimens.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/progress_bar_selector.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/shade_1.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/RecyclerViewTest/RecyclerView-Wangyi-master/app/src/main/java/tech/android/example/AutoFitTextView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/RecyclerViewTest/RecyclerView-Wangyi-master/app/src/main/java/tech/android/example/ItemTouchHelperCallback.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/RecyclerViewTest/RecyclerView-Wangyi-master/app/src/main/java/tech/android/example/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/RecyclerViewTest/RecyclerView-Wangyi-master/app/src/main/java/tech/android/example/SelectedRecycleAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/RecyclerViewTest/RecyclerView-Wangyi-master/app/src/main/java/tech/android/example/SpaceItemDecoration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/RecyclerViewTest/RecyclerView-Wangyi-master/app/src/main/res/drawable/tv_item_bg.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/RecyclerViewTest/RecyclerView-Wangyi-master/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/RecyclerViewTest/RecyclerView-Wangyi-master/app/src/main/res/layout/item.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/RecyclerViewTest/RecyclerView-Wangyi-master/app/src/main/res/values/attrs.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/RecyclerViewTest/RecyclerView-Wangyi-master/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/新建文件夹/RecyclerView-Wangyi-master/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/新建文件夹/RecyclerView-Wangyi-master/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/新建文件夹/RecyclerView-Wangyi-master/app/src/src/main/res/layout/tv.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/新建文件夹/RecyclerView-Wangyi-master/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/新建文件夹/RecyclerView-Wangyi-master/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/新建文件夹/RecyclerView-Wangyi-master/settings.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white">
+    <com.tcl.example.com.tcl.dejun.xie.ListViewUsage.LeftDragItemView
+        android:id="@+id/right_item_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <com.tcl.example.com.tcl.dejun.xie.ListViewUsage.LeftWrapperItem
+            android:id="@+id/wrapper_item"
+            android:layout_width="match_parent"
+            android:layout_height="52dp">
+            <include layout="@layout/left_drag_content"/>
+            <include layout="@layout/letf_drag_view" />
+        </com.tcl.example.com.tcl.dejun.xie.ListViewUsage.LeftWrapperItem>
+    </com.tcl.example.com.tcl.dejun.xie.ListViewUsage.LeftDragItemView>
+</FrameLayout>
