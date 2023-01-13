@@ -11,7 +11,7 @@ public class ButtonBean {
     private String category;//intentFilter的category值
     private String scheme;//data的 scheme
     private String mimeType;//data的 mimeType
-//	private String testKey;// testKey
+	private String testKey;// testKey
 
     public ButtonBean(String demoName, String enterActivity, String action, String category, String scheme, String mimeType) {
         this.demoName = demoName;
