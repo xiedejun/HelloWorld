@@ -5,3 +5,4 @@
 .DS_Store
 /build
 /captures
+/ide_changed_projects.txt
